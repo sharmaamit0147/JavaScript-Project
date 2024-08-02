@@ -1,2 +1,2 @@
-# JavaScript-YouTube
-A code rapo for javascript series at chai aur code youtube channel
+# JavaScript Project
+A code rapo for javascript project
